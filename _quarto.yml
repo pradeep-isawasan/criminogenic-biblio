@@ -14,10 +14,10 @@ website:
         menu:
           - text: "01 Preprocessing"
             href: notebooks/01_preprocess.ipynb
-          - text: "02 Topic Modeling"
-            href: notebooks/02_topic_modeling.ipynb
-          - text: "03 Co-occurrence Network"
-            href: notebooks/03_cooccurrence.ipynb
+          - text: "02 Co-occurrence Network"
+            href: notebooks/02_cooccurrence.ipynb
+          - text: "03 Topic Modeling"
+            href: notebooks/03_topic_modeling.ipynb
 
 format:
   html:
