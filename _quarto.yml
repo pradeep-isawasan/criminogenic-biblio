@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Criminogenic Bibliometric Analysis"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Authors"
+        href: authors.qmd
+      - text: "Analysis Notebooks"
+        menu:
+          - text: "01 Preprocessing"
+            href: notebooks/01_preprocess.ipynb
+          - text: "02 Topic Modeling"
+            href: notebooks/02_topic_modeling.ipynb
+          - text: "03 Co-occurrence Network"
+            href: notebooks/03_cooccurrence.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    page-layout: full
+
+execute:
+  freeze: auto

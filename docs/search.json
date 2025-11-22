@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "authors.html",
+    "href": "authors.html",
+    "title": "Authors",
+    "section": "",
+    "text": "Sunway University\nCommunication, Data Analytics & Social Media Research\nEmail: (your email)\n\n\n\nBibliometrics & science mapping\n\nSocial media analytics\n\nGenerative AI + criminology\n\nTopic modeling, embeddings, TDA"
+  },
+  {
+    "objectID": "authors.html#dr.-pradeep-isawasan",
+    "href": "authors.html#dr.-pradeep-isawasan",
+    "title": "Authors",
+    "section": "",
+    "text": "Sunway University\nCommunication, Data Analytics & Social Media Research\nEmail: (your email)\n\n\n\nBibliometrics & science mapping\n\nSocial media analytics\n\nGenerative AI + criminology\n\nTopic modeling, embeddings, TDA"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About This Study",
+    "section": "",
+    "text": "About This Research\nThis website hosts the full reproducible analysis for the study:\nCriminogenic Research Mapping Using Bibliometrics, Topic Modeling, and Network Analysis\n\nData source: Web of Science\n\nTime span: Your study range\n\nMethods used:\n\nBibliometric mapping\n\nTopic modeling\n\nKeyword co-occurrence\n\nResearch clusters exploration\n\nCriminogenic concept analysis\n\n\nUse the tabs above to navigate through the notebooks."
+  }
+]

@@ -1,0 +1,23 @@
+---
+title: "Authors"
+format: html
+---
+
+# Authors
+
+## Dr. Pradeep Isawasan
+Sunway University  
+Communication, Data Analytics & Social Media Research  
+Email: (your email)
+
+### Research Interests
+- Bibliometrics & science mapping  
+- Social media analytics  
+- Generative AI + criminology  
+- Topic modeling, embeddings, TDA  
+
+---
+
+# Co-Authors (If any)
+
+(Add here later)

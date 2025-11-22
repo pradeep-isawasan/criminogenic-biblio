@@ -1,0 +1,21 @@
+---
+title: "About This Study"
+format: html
+---
+
+# About This Research
+
+This website hosts the full reproducible analysis for the study:
+
+**Criminogenic Research Mapping Using Bibliometrics, Topic Modeling, and Network Analysis**
+
+- Data source: Web of Science  
+- Time span: Your study range  
+- Methods used:
+  - Bibliometric mapping  
+  - Topic modeling  
+  - Keyword co-occurrence  
+  - Research clusters exploration  
+  - Criminogenic concept analysis  
+
+Use the tabs above to navigate through the notebooks.
