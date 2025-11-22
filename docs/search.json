@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "notebooks/03_topic_modeling.html",
+    "href": "notebooks/03_topic_modeling.html",
+    "title": "Topic Modeling - v7",
+    "section": "",
+    "text": "Code\n---\ntitle: \"03 Topic Modeling\"\nformat: html\njupyter: python3\n---"
+  },
+  {
     "objectID": "notebooks/03_topic_modeling.html#imports",
     "href": "notebooks/03_topic_modeling.html#imports",
     "title": "Topic Modeling - v7",
